@@ -33,6 +33,6 @@
 
 ### 📫 How to Reach Me  
 - GitHub: **@kabirshaikh232**  
-- LinkedIn: *(add your link here)*  
+- LinkedIn: *https://www.linkedin.com/in/kabirshaikh232/*  
 
 ⚡ **Fun Fact:** I love turning messy data into clear insights 📊✨
