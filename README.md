@@ -4,7 +4,7 @@
 💡 Turning raw data into meaningful insights  
 
 ### 🔍 About Me  
-- 🎓 Master of Computer Applications (MCA) graduate  
+- 🎓 Pursuing **Master of Computer Applications (MCA)**    
 - 📈 Strong interest in **Data Analytics & Business Intelligence**  
 - 🧠 Enjoy analyzing data to discover patterns, trends & insights  
 
