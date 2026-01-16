@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Kabir Shaikh  
+## Hi there 👋 I'm Kabir Iqbal Shaikh  
 
 📊 **Aspiring Data Analyst** | MCA Graduate  
 💡 Turning raw data into meaningful insights  
